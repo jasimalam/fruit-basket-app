@@ -14,7 +14,7 @@ HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fruit Basket App V2</title>
+    <title>Fruit Basket App V5</title>
     <style>
         body {
             font-family: Arial, sans-serif;
