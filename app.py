@@ -74,7 +74,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h1>🍎 Fruit Basket App 🍌</h1>
+        <h1>🍎 Fruit Basket App v1 🍌</h1>
         <h3>Current Fruits:</h3>
         {% if fruits %}
             {% for fruit in fruits %}
